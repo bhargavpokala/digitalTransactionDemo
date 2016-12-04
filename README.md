@@ -1,0 +1,2 @@
+# digitalTransactionDemo
+Currently, the _illiterates_ are having a lot of phobias regarding the digital transactions. Even _money withdrawal_ from ATM is hard for illiterates.  The goal is to create an application (web/mobile) which  will _**mimic**_ the ATM interface. The user will be guided to do a transaction. Also, the user should learn the precautions to take when doing digital transactions.   In layman's words, we need to create something like a  __codeacademy for digital transactions__. 
